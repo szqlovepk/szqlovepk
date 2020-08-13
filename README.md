@@ -1,5 +1,6 @@
-### Hi there 👋
+### 你好 👋
 
+- 😄 我是强哥BB
 <!--
 **szqlovepk/szqlovepk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
