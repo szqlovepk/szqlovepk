@@ -1,5 +1,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=szqlovepk&show_icons=true" alt="logo" height="150"  align="right" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=szqlovepk&layout=compact" alt="logo" height="160" width="320" align="right" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=szqlovepk&layout=compact" alt="logo" height="160" width="320" align="right" /> -->
 
 ### 你好 👋
 😄 我是szqlovepk
